@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/freeart"
+baseurl: ""
 url: "https://gaoyuanwang1976.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
