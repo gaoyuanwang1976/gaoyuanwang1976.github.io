@@ -1,0 +1,40 @@
+I"D<!-- Portfolio Grid Section -->
+
+<div class="portfolio-grid">
+    
+    <div class="portfolio-cell">
+        <a href="/portfolio/bikes" class="portfolio-link" data-keyboard="true">
+            <div class="caption" title="Fahrradkunst">
+                <div class="caption-content">
+                    <i class="fa fa-search-plus fa-3x"></i>
+                </div>
+            </div>
+            <img src="/assets/img/bikes/1786468274.jpg" class="" alt="" />
+        </a>
+    </div>
+    
+    <div class="portfolio-cell">
+        <a href="/portfolio/painting" class="portfolio-link" data-keyboard="true">
+            <div class="caption" title="Acryl-Malerei">
+                <div class="caption-content">
+                    <i class="fa fa-search-plus fa-3x"></i>
+                </div>
+            </div>
+            <img src="/assets/img/painting/336439583.jpg" class="" alt="" />
+        </a>
+    </div>
+    
+    <div class="portfolio-cell">
+        <a href="/portfolio/siebdruck" class="portfolio-link" data-keyboard="true">
+            <div class="caption" title="Siebdruck">
+                <div class="caption-content">
+                    <i class="fa fa-search-plus fa-3x"></i>
+                </div>
+            </div>
+            <img src="/assets/img/clothing/WechatIMG393.jpeg" class="" alt="" />
+        </a>
+    </div>
+    
+</div>
+
+:ET
