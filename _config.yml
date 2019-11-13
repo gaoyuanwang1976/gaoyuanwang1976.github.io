@@ -12,7 +12,7 @@ favicon: assets/img/wanglogo.ico                             # Icon displayed in
 header_text: Ich liebe einfach Kunst und moechte es der Welt mitteilen. Bitte kauft meine Produkte!                                           # Change Blog header text
 header_feature_image: assets/img/nasa-home.jpg
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  designed by Jan Veltmaat
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable

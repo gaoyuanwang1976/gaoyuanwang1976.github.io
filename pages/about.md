@@ -3,6 +3,7 @@ layout: page
 title: Über uns
 permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
+feature-img: "assets/img/clothing/WechatIMG396.jpeg"
 tags: [About]
 ---
 

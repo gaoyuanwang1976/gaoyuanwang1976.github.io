@@ -1,13 +1,13 @@
 # Icons on the footer
-rss: true         # Make sure you created a feed.xml with feed.xml layout
-email_address:    # Full email address, e.g. "sam@example.com"
+rss: false         # Make sure you created a feed.xml with feed.xml layout
+email_address: ing.hom@googlemail.com   # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
 facebook:
 flickr:
 gitlab:
-github: "sylhare"
+github: "gaoyuanwang1976" # https://github.com/gaoyuanwang1976/gaoyuanwang1976.github.io
 instagram:
 keybase:
 linkedin:         # Full URL
@@ -25,12 +25,12 @@ youtube:
 
 # Share button options
 share:
-  facebook: true
-  twitter: true
+  facebook: false
+  twitter: false
   tumblr:
   pinterest:
   pocket:
-  reddit: true
+  reddit: false
   linkedin:
   wordpress:
   email: true
