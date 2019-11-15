@@ -15,5 +15,5 @@ Zu den benötigten Chemiekalien für einen erfolgreichen Siebdruck gehören
 * Washout,
 * Entschichter.
 
-![production]({{ site.baseurl }}/assets/img/clothing/ausruestung/chemical.jpeg)
-![production]({{ site.baseurl }}/assets/img/clothing/ausruestung/1124189409.jpg)
+![production]({{ site.baseurl }}/assets/img/clothing/ausruestung/chemical_medium.jpeg)
+![production]({{ site.baseurl }}/assets/img/clothing/ausruestung/1124189409_medium.jpg)

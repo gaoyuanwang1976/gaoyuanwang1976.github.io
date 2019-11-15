@@ -24,17 +24,17 @@ Informieren Sie sich gerne zunächst über den [Herstellungsprozess]({% link pag
 
 #### Schritt 2: Entscheiden Sie sich für eine Farbe des Stoff Rohlings.
 
-TODO: hier fehlt noch ein bild
+![color]({{ site.baseurl }}/assets/img/clothing/color.jpg)
 
 #### Schritt 3: Wählen Sie ein Motiv aus.
 
 * Zum Beispiel das Göttingen Motiv:
 
-![goettingen]({{ site.baseurl }}/assets/img/pexels/goettingen.png)
+![goettingen]({{ site.baseurl }}/assets/img/clothing/goettingen_medium.png)
 
 * oder Sportmotive
 
-![cycling]({{ site.baseurl }}/assets/img/pexels/cycling.png)
+![cycling]({{ site.baseurl }}/assets/img/clothing/cycling_medium.png)
 
 * Lassen Sie sich auch durch unsere [Gallerie]({% link pages/gallery.md %}) inspirieren.
 
@@ -48,6 +48,6 @@ Wir würden Ihnen allerdings davon abraten, weil die Druckqualität mit Weiß ni
 
 ### So könnte Ihr individuelles T-Shirt aussehen:
 
-![sample]({{ site.baseurl }}/assets/img/clothing/WechatIMG392.jpeg)
-![sample]({{ site.baseurl }}/assets/img/clothing/grau.jpeg)
-![sample]({{ site.baseurl }}/assets/img/clothing/darkblue.jpeg)
+![sample]({{ site.baseurl }}/assets/img/clothing/WechatIMG392_medium.jpeg)
+![sample]({{ site.baseurl }}/assets/img/clothing/grau_medium.jpeg)
+![sample]({{ site.baseurl }}/assets/img/clothing/darkblue_medium.jpeg)

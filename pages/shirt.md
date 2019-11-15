@@ -26,11 +26,11 @@ Der Design Prozess beinhaltet **fünf Schritte**.
 
 ### Einige Impressionen aus dem Herstellungsprozess:
 
-![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG398.jpeg)
-![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG355.jpeg)
-![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG357.jpeg)
-![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG396.jpeg)
-![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG395.jpeg)
-![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG394.jpeg)
-![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG393.jpeg)
-![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG393.jpeg)
+![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG398_medium.jpeg)
+![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG355_medium.jpeg)
+![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG357_medium.jpeg)
+![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG396_medium.jpeg)
+![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG395_medium.jpeg)
+![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG394_medium.jpeg)
+![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG393_medium.jpeg)
+![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG393_medium.jpeg)
