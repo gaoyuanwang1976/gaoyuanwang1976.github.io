@@ -33,4 +33,3 @@ Der Design Prozess beinhaltet **fünf Schritte**.
 ![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG395_medium.jpeg)
 ![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG394_medium.jpeg)
 ![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG393_medium.jpeg)
-![production]({{ site.baseurl }}/assets/img/clothing/WechatIMG393_medium.jpeg)

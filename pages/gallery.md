@@ -5,7 +5,7 @@ subtitle: der beliebtesten Motive
 permalink: /gallery/
 feature-img: "assets/img/clothing/WechatIMG396.jpeg"
 gallery_path: "assets/img/pexels"
-tags: [Gallery, Photo]
+#tags: [Gallery, Photo]
 ---
 
 

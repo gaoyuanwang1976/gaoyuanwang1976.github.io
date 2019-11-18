@@ -4,13 +4,16 @@ title : Bestellen
 permalink: /order/
 subtitle: "wir bedrucken individuell"
 feature-img: "assets/img/clothing/WechatIMG395.jpeg"
-tags: [Archive]
+#tags: [Archive]
 ---
 
 Sie möchten ein individuelles T-Shirt bedrucken lassen?
-Zögern Sie nicht uns zu kontaktieren und teilen Sie uns ihre Wünsche und Vorstellungen mit:
-  * mail: ing.hom@googlemail.com
-  * telefon: +49 175-7453735
+Zögern Sie nicht uns zu kontaktieren und teilen Sie uns Ihre Wünsche und Vorstellungen mit:
+  * **mail:** ing.hom@googlemail.com
+  * **telefon:** +49 175-7453735
+
+Ein T-Shirt mit einem bereits designten Motiv kostet **20€**.
+Der Preis für ein neues Design richtet sich nach dem individuellen Aufwand.
 
 Informieren Sie sich gerne zunächst über den [Herstellungsprozess]({% link pages/shirt.md %}).
 
@@ -28,11 +31,11 @@ Informieren Sie sich gerne zunächst über den [Herstellungsprozess]({% link pag
 
 #### Schritt 3: Wählen Sie ein Motiv aus.
 
-* Zum Beispiel das Göttingen Motiv:
+* Zum Beispiel das Göttingen Motiv (für 20€):
 
 ![goettingen]({{ site.baseurl }}/assets/img/clothing/goettingen_medium.png)
 
-* oder Sportmotive
+* oder Sportmotive (für 20€):
 
 ![cycling]({{ site.baseurl }}/assets/img/clothing/cycling_medium.png)
 
