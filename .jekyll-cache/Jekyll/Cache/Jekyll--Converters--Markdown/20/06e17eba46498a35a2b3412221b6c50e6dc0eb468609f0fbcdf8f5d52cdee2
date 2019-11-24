@@ -1,4 +1,4 @@
-I"D<!-- Portfolio Grid Section -->
+I"™<!-- Portfolio Grid Section -->
 
 <div class="portfolio-grid">
     
@@ -21,17 +21,6 @@
                 </div>
             </div>
             <img src="/assets/img/painting/336439583.jpg" class="" alt="" />
-        </a>
-    </div>
-    
-    <div class="portfolio-cell">
-        <a href="/portfolio/siebdruck" class="portfolio-link" data-keyboard="true">
-            <div class="caption" title="Siebdruck">
-                <div class="caption-content">
-                    <i class="fa fa-search-plus fa-3x"></i>
-                </div>
-            </div>
-            <img src="/assets/img/clothing/WechatIMG393.jpeg" class="" alt="" />
         </a>
     </div>
     
