@@ -32,13 +32,13 @@ Informieren Sie sich gerne zunächst über den [Herstellungsprozess]({% link pag
 
 #### Schritt 3: Wählen Sie ein Motiv aus.
 
-* Zum Beispiel das Göttingen Motiv (für 20€):
+* Zum Beispiel das **Göttingen** Motiv (für **20€**):
 
-![goettingen]({{ site.baseurl }}/assets/img/clothing/goettingen_medium.png)
+![goettingen]({{ site.baseurl }}/assets/img/clothing/designs/medium/goettingen_medium.png)
 
-* oder Sportmotive (für 20€):
+* oder **Sportmotive** (für **20€**):
 
-![cycling]({{ site.baseurl }}/assets/img/clothing/cycling_medium.png)
+![cycling]({{ site.baseurl }}/assets/img/clothing/designs/medium/cycling_medium.png) ![snowboard]({{ site.baseurl }}/assets/img/clothing/designs/medium/snowboard_medium.png)
 
 * Lassen Sie sich auch durch unsere [Gallerie]({% link pages/gallery.md %}) inspirieren.
 
