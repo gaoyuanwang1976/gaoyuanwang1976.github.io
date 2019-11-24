@@ -4,7 +4,7 @@ title: Über uns
 permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
 feature-img: "assets/img/clothing/WechatIMG396.jpeg"
-order: 5
+order: 6
 #tags: [About]
 ---
 

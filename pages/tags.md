@@ -3,6 +3,6 @@ layout: tags
 title: Tags
 permalink: /tags/
 icon: "fa-tags"
-order: 6
+order: 7
 hide: true
 ---
