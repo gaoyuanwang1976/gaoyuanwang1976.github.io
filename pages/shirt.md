@@ -4,6 +4,7 @@ title : Herstellung
 permalink: /shirts/
 subtitle: "nach dem Siebdruckverfahren"
 feature-img: "assets/img/clothing/WechatIMG395.jpeg"
+order: 2
 #tags: [Archive]
 ---
 

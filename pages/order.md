@@ -4,6 +4,7 @@ title : Bestellen
 permalink: /order/
 subtitle: "wir bedrucken individuell"
 feature-img: "assets/img/clothing/WechatIMG395.jpeg"
+order: 1
 #tags: [Archive]
 ---
 
