@@ -40,7 +40,7 @@ Informieren Sie sich gerne zunächst über den [Herstellungsprozess]({% link pag
 
 ![cycling]({{ site.baseurl }}/assets/img/clothing/designs/medium/cycling_medium.png) ![snowboard]({{ site.baseurl }}/assets/img/clothing/designs/medium/snowboard_medium.png)
 
-* Lassen Sie sich auch durch unsere [Gallerie]({% link pages/gallery.md %}) inspirieren.
+* Lassen Sie sich auch durch unsere [Galerie]({% link pages/gallery.md %}) inspirieren.
 
 * Sie haben eine eigene Idee für ein Motiv? Zögern Sie nicht uns zu kontaktieren. Dann werden wir mit Ihnen zusammen an der Umsetzung arbeiten.
 

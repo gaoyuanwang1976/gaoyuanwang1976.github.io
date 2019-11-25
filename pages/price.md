@@ -8,7 +8,7 @@ order: 2
 #tags: [Archive]
 ---
 
-Ein T-Shirt mit einem der Designs aus der [Gallerie]({% link pages/gallery.md %}) kostet pauschal **20€**.
+Ein T-Shirt mit einem der Designs aus der [Galerie]({% link pages/gallery.md %}) kostet pauschal **20€**.
 Ein passendes Motiv gefunden?
 Dann [bestellen]({% link pages/order.md %}) Sie Ihr T-Shirt.
 Erfahrungsgemäß eignet sich ein individuelles T-Shirt auch sehr gut als Geschenk.

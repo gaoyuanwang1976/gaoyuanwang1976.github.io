@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallerie
+title: Galerie
 subtitle: der beliebtesten Motive
 permalink: /gallery/
 feature-img: "assets/img/clothing/WechatIMG396.jpeg"

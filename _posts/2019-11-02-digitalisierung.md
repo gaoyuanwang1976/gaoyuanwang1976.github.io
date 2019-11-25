@@ -20,5 +20,5 @@ Die von uns entwickelten Algorithmen erfüllen vorallem drei Funktionen.
 
 ![production]({{ site.baseurl }}/assets/img/clothing/code_medium.jpeg)
 
-Schauen Sie doch mal in unserer [Gallerie]({% link pages/gallery.md %}) vorbei.
+Schauen Sie doch mal in unserer [Galerie]({% link pages/gallery.md %}) vorbei.
 Dort finden Sie einige Motive, die durch das beschriebene Verfahren nachbearbeitet wurden.
