@@ -4,12 +4,12 @@ url: "https://gaoyuanwang1976.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Modern Art Wang                                    # site's title
-description: "A website with blog posts and pages"      # used by search engines
+description: "siebdruck, design, print, shirts, sport, göttingen"      # used by search engines
 avatar: assets/img/wanglogo.png                         # Empty for no avatar in navbar
 favicon: assets/img/wanglogo.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Siebdruck, design & print                                # Change Blog header text
+header_text: siebdruck, design & print                                # Change Blog header text
 header_feature_image: assets/img/nasa-home.jpg
 footer_text: >
   designed by Jan Veltmaat

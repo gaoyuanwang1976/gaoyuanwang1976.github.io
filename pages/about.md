@@ -11,5 +11,5 @@ order: 6
 Wir sind ein kleines Team von freischaffenden Künstlern aus Göttingen, die sich für das Bedrucken von Textilien nach dem Siebdruckverfahren interessieren.
 
 Kontaktieren Sie uns gerne
-* **per mail:** ing.hom@googlemail.com
-* **telefonisch:** +49 175-7453735
+* **e-mail:** ing.hom@googlemail.com
+* **tel:** +49 175-7453735

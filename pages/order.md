@@ -10,8 +10,8 @@ order: 1
 
 Sie möchten ein individuelles T-Shirt bedrucken lassen?
 Zögern Sie nicht uns zu kontaktieren und teilen Sie uns Ihre Wünsche und Vorstellungen mit:
-  * **mail:** ing.hom@googlemail.com
-  * **telefon:** +49 175-7453735
+  * **e-mail:** ing.hom@googlemail.com
+  * **tel:** +49 175-7453735
 
 Ein T-Shirt mit einem bereits designten Motiv kostet **20€**.
 Der Preis für ein neues Design richtet sich nach dem individuellen Aufwand.
